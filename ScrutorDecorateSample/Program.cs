@@ -23,3 +23,9 @@ namespace ScrutorDecorateSample
         }
     }
 }
+
+
+//public static readonly IServiceProvider ServicesProvider = new ServiceCollection()
+//    .AddScoped<IClass1, Class1>()
+//    .Decorate<IClass1, Class1Decorator>()
+//    .BuildServiceProvider();
